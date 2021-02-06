@@ -1,0 +1,25 @@
+.In-size{
+    font-size: 28px;
+    padding-left: 18px;
+    
+}
+.W-w{
+    font-size: 20px;
+}
+#img-div{
+    margin: auto;
+     width: 500px; 
+      text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    padding: 10px;
+   margin: auto;
+    border:green;
+    text-align: justify;
+
+}
+td{
+    padding: 20px;
+}
